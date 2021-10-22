@@ -29,7 +29,7 @@ namespace Bài_7
                 for (int j = 0; j < n; j++)
                 {
                     if (i == j)
-                    {
+                    {https://github.com/LyrVe/LTHDT/blob/main/Tu%E1%BA%A7n%203/Program.cs
                         sum += matrix[i, j];
                     }    
                 }
